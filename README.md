@@ -11,6 +11,7 @@
     - [FAQ](https://github.com/limayoung0/Eljoy_project#faq)
     - [공지사항](https://github.com/limayoung0/Eljoy_project#%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD)
     - [Q&A](https://github.com/limayoung0/Eljoy_project#qa)
+
 ---
 # 개요
 * 프로젝트 명 : 전자제품 대여사이트
@@ -39,7 +40,7 @@
   - 고객센터
  
 * DB설계
-<img src=""  width="700" height="370" align="center">
+추가예정
 
 ---
 # 구현 기능
@@ -52,14 +53,15 @@
   - 체크박스 전체선택/해제 가능
 
 ### 내 주문내역
-<img src=""  width="800" height="370">
+<img src="https://user-images.githubusercontent.com/78776635/126315473-456a64b9-8c03-4510-a01c-c505221f01cd.PNG"  width="800" height="370">
+<img src="https://user-images.githubusercontent.com/78776635/126315661-30c4a706-d089-4ded-9b2d-eb6711039eee.PNG"  width="800" height="370">
 
 * 구현 기능 설명
   - session 을 통해 저장된 사용자의 주문 내역 조회
   - 리뷰 작성 클릭 시 리뷰 작성 페이지로 넘어감
 
 ### 내 리뷰
-<img src=""  width="800" height="370">
+<img src="https://user-images.githubusercontent.com/78776635/126315736-e07e3de4-2d3c-486c-8c23-96d5b18c612f.PNG"  width="800" height="370">
 
 * 구현 기능 설명
   - session 을 통해 저장된 사용자의 리뷰 내역 조회
@@ -67,7 +69,7 @@
   - 수정, 삭제 가능
 
 ### 내 질문
-<img src=""  width="800" height="370">
+<img src="https://user-images.githubusercontent.com/78776635/126315989-52b8dca7-470b-497e-8c50-acfbd0ec04de.PNG"  width="800" height="370">
 
 * 구현 기능 설명
   - session 을 통해 저장된 사용자의 질문 내역 조회

@@ -4,13 +4,13 @@
 3. [구현 기능](https://github.com/limayoung0/Eljoy_project#%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%8A%A5)
   * [마이페이지](https://github.com/limayoung0/Eljoy_project#%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80)
     - [장바구니](https://github.com/limayoung0/Eljoy_project#%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88)
-    - 내 주문내역
-    - 내 리뷰
-    - 내 질문
-  * 고객센터
-    - FAQ
-    - 공지사항
-    - Q&A
+    - [내 주문내역](https://github.com/limayoung0/Eljoy_project#%EB%82%B4-%EC%A3%BC%EB%AC%B8%EB%82%B4%EC%97%AD)
+    - [내 리뷰](https://github.com/limayoung0/Eljoy_project#%EB%82%B4-%EB%A6%AC%EB%B7%B0)
+    - [내 질문](https://github.com/limayoung0/Eljoy_project#%EB%82%B4-%EC%A7%88%EB%AC%B8)
+  * [고객센터](https://github.com/limayoung0/Eljoy_project#%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0)
+    - [FAQ](https://github.com/limayoung0/Eljoy_project#faq)
+    - [공지사항](https://github.com/limayoung0/Eljoy_project#%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD)
+    - [Q&A](https://github.com/limayoung0/Eljoy_project#qa)
 ---
 # 개요
 * 프로젝트 명 : 전자제품 대여사이트
@@ -93,3 +93,6 @@
 * 구현 기능 설명
   - session 을 통해 저장된 사용자의 장바구니 내역 조회
   - 체크박스 전체선택/해제 가능
+
+---
+지금까지 읽어주셔서 감사합니다 :)

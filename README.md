@@ -45,21 +45,21 @@
 # 구현 기능
 ## 마이페이지
 ### 장바구니
-<img src="https://user-images.githubusercontent.com/78776635/126303459-e404e974-4cc0-4a39-817f-b3fa4ccf904f.PNG"  width="1000" height="370">
+<img src="https://user-images.githubusercontent.com/78776635/126303459-e404e974-4cc0-4a39-817f-b3fa4ccf904f.PNG"  width="800" height="370">
 
 * 구현 기능 설명
   - session 을 통해 저장된 사용자의 장바구니 내역 조회
   - 체크박스 전체선택/해제 가능
 
 ### 내 주문내역
-<img src=""  width="1000" height="370">
+<img src=""  width="800" height="370">
 
 * 구현 기능 설명
   - session 을 통해 저장된 사용자의 주문 내역 조회
   - 리뷰 작성 클릭 시 리뷰 작성 페이지로 넘어감
 
 ### 내 리뷰
-<img src=""  width="1000" height="370">
+<img src=""  width="800" height="370">
 
 * 구현 기능 설명
   - session 을 통해 저장된 사용자의 리뷰 내역 조회
@@ -67,7 +67,7 @@
   - 수정, 삭제 가능
 
 ### 내 질문
-<img src=""  width="1000" height="370">
+<img src=""  width="800" height="370">
 
 * 구현 기능 설명
   - session 을 통해 저장된 사용자의 질문 내역 조회
@@ -76,7 +76,7 @@
 
 ## 고객센터
 ### FAQ
-<img src=""  width="1000" height="370">
+<img src="https://user-images.githubusercontent.com/78776635/126314499-8ee80bba-d808-45b4-8cc4-fdfc3eb81be9.PNG"  width="800" height="370">
 
 * 구현 기능 설명
   - 회원들이 자주 묻는 질문들을 FAQ를 한눈에 보기 편하게 조회
@@ -85,7 +85,7 @@
   - 관리자만 FAQ 작성 가능
 
 ### 공지사항
-<img src=""  width="1000" height="370">
+<img src="https://user-images.githubusercontent.com/78776635/126314654-0c6d3774-b97e-42b5-b1ae-e5b7e9e2ecc1.PNG"  width="800" height="370">
 
 * 구현 기능 설명
   - 공지사항 게시판 글 목록 조회
@@ -95,7 +95,7 @@
   - 목록으로 이동
 
 ### Q&A
-<img src=""  width="1000" height="370">
+<img src="https://user-images.githubusercontent.com/78776635/126314680-a7dc0581-0e9b-4b5c-85bd-0ad979e94749.PNG"  width="800" height="370">
 
 * 구현 기능 설명
   - 전체 회원의 Q&A 목록 조회
